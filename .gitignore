@@ -1,0 +1,6 @@
+# Local Supabase CLI state and environment secrets
+supabase/.temp/
+supabase/functions/.env
+.env
+.env.*
+!config.js
